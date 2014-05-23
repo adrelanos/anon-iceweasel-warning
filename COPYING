@@ -1,0 +1,54 @@
+Format: http://dep.debian.net/deps/dep5
+
+Files: *
+Copyright: 2014 Patrick Schleizer
+License: GPL-3+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the full text of the GNU General Public
+ License version 3 can be found in the file
+ `/usr/share/common-licenses/GPL-3'.
+
+Files: /usr/share/anon-iceweasel-warning/40px-Ambox_warning_pn.svg.png
+Comment: Downloaded from:
+         https://en.wikipedia.org/wiki/File:Ambox_warning_pn.svg
+         http://www.webcitation.org/6LsCzZOsz
+         https://commons.wikimedia.org/wiki/File:Ambox_warning_pn.svg
+         http://www.webcitation.org/6Pn5I7GeU
+         https://commons.wikimedia.org/wiki/User:Penubag
+         http://www.webcitation.org/6Pn5TPilu
+         Source:
+         This vector image <https://en.wikipedia.org/wiki/Vector_images> was
+         created with Inkscape.
+         <https://commons.wikimedia.org/wiki/Help:Inkscape>
+         Own work based on File:Circle-style-warning.svg by Carelesshx
+         <https://commons.wikimedia.org/wiki/User:Carelesshx>
+Copyright: penubag <https://commons.wikimedia.org/wiki/User:Penubag>
+License: public domain
+ Released into public domain (attribution and notification recommended, but not
+ required)
+ .
+ I agree to release all rights of images created by me into the public domain.
+ You may do whatever you please with my images (my image is your image).
+ Although I do not require you to do so, if you do happen to use my picture out
+ of Wikimedia, please kindly notify me via talk page or email, it would be very
+ much appreciated (I really need the ego boost). Also, if you use my picture
+ for documents or other needs, it would be kind of you to credit me, although
+ not required at all. Have fun!
+ .
+ I, the copyright holder of this work, release this work into the public
+ domain <https://en.wikipedia.org/wiki/en:public_domain>. This applies
+ worldwide. In some countries this may not be legally possible; if so:
+ I grant anyone the right to use this work for any purpose, without any
+ conditions, unless such conditions are required by law.

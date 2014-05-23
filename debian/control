@@ -1,0 +1,20 @@
+## This file is part of Whonix.
+## Copyright (C) 2012 - 2014 Patrick Schleizer <adrelanos@riseup.net>
+## See the file COPYING for copying conditions.
+
+Source: anon-iceweasel-warning
+Section: misc
+Priority: optional
+Maintainer: Patrick Schleizer <adrelanos@riseup.net>
+Build-Depends: debhelper (>= 8), faketime, git
+Homepage: https://github.com/Whonix/anon-iceweasel-warning
+Vcs-Browser: https://github.com/Whonix/anon-iceweasel-warning
+Vcs-Git: https://github.com/Whonix/anon-iceweasel-warning.git
+Standards-Version: 3.9.4
+
+Package: anon-iceweasel-warning
+Architecture: all
+Depends: ${misc:Depends}
+Description: Iceweasel Warning for Anonymity Distributions
+ Shows a local homepage saying "Do not use this browser for anything other than
+ downloading Tor Browser, unless you know what you are doing!" in iceweasel.
