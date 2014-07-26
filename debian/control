@@ -18,3 +18,7 @@ Depends: ${misc:Depends}
 Description: Iceweasel Warning for Anonymity Distributions
  Shows a local homepage saying "Do not use this browser for anything other than
  downloading Tor Browser, unless you know what you are doing!" in iceweasel.
+ .
+ For better usability/security.
+ .
+ Safe to remove if you know this.
