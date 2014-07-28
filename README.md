@@ -3,6 +3,10 @@
 Shows a local homepage saying "Do not use this browser for anything other than
 downloading Tor Browser, unless you know what you are doing!" in iceweasel.
 
+For better usability/security.
+
+Safe to remove if you know this.
+
 (This package description has been [automatically](https://github.com/Whonix/whonix-developer-meta-files/blob/master/debug-steps/packaging-helper-script) extracted and mirrored from `debian/control`.)
 
 # Generic Readme #
