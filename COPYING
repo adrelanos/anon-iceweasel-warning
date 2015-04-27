@@ -20,7 +20,7 @@ License: GPL-3+
  License version 3 can be found in the file
  `/usr/share/common-licenses/GPL-3'.
 
-Files: /usr/share/anon-iceweasel-warning/40px-Ambox_warning_pn.svg.png
+Files: usr/share/anon-iceweasel-warning/40px-Ambox_warning_pn.svg.png
 Comment: Downloaded from:
          https://en.wikipedia.org/wiki/File:Ambox_warning_pn.svg
          http://www.webcitation.org/6LsCzZOsz
